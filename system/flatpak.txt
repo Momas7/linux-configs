@@ -1,0 +1,4 @@
+app.zen_browser.zen	stable	flathub
+com.discordapp.Discord	stable	flathub
+com.visualstudio.code	stable	flathub
+dev.zed.Zed	stable	flathub

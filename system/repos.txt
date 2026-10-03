@@ -1,0 +1,13 @@
+_copr:copr.fedorainfracloud.org:phracek:PyCharm.repo
+_copr:copr.fedorainfracloud.org:scottames:ghostty.repo
+fedora-cisco-openh264.repo
+fedora-spotify.repo
+fedora-updates-testing.repo
+fedora-updates.repo
+fedora.repo
+google-chrome.repo
+rpmfusion-free-updates-testing.repo
+rpmfusion-free-updates.repo
+rpmfusion-free.repo
+rpmfusion-nonfree-nvidia-driver.repo
+rpmfusion-nonfree-steam.repo

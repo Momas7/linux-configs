@@ -1,0 +1,47 @@
+# Pacotes instalados manualmente neste sistema (Fedora 44).
+# Usado por `./install.sh --packages`.
+# Linhas que começam com # ou ficam vazias são ignoradas.
+
+# --- terminal e CLI ---
+git
+gh
+curl
+wget2
+jq
+tree
+tmux
+rsync
+sshpass
+unzip
+zip
+p7zip
+dconf
+
+# --- GNOME ---
+gnome-tweaks
+ptyxis
+gnome-shell-extension-apps-menu
+gnome-shell-extension-background-logo
+gnome-shell-extension-dash-to-dock
+gnome-shell-extension-launch-new-instance
+gnome-shell-extension-places-menu
+gnome-shell-extension-user-theme
+gnome-shell-extension-window-list
+
+# --- aplicativos ---
+nautilus
+ghostty
+firefox
+spotify-client
+
+# --- dev ---
+podman
+python3
+java-25-openjdk-headless
+
+# --- mídia / escritório ---
+ffmpeg-free
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+libreoffice-langpack-pt-BR

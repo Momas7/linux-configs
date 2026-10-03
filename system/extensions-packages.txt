@@ -1,0 +1,7 @@
+gnome-shell-extension-apps-menu-50.4-1.fc44.noarch
+gnome-shell-extension-background-logo-50~beta-2.fc44.noarch
+gnome-shell-extension-launch-new-instance-50.4-1.fc44.noarch
+gnome-shell-extension-places-menu-50.4-1.fc44.noarch
+gnome-shell-extension-window-list-50.4-1.fc44.noarch
+gnome-shell-extension-user-theme-50.4-1.fc44.noarch
+gnome-shell-extension-dash-to-dock-105-1.fc44.noarch

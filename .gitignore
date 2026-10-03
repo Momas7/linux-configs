@@ -1,0 +1,25 @@
+# Nunca versionar credenciais ou chaves
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+.env
+.env.*
+secrets.*
+credentials*
+
+# Arquivos que o snapshot coleta mas que carregam token/sessão
+config/gh/hosts.yml
+config/opencode/
+config/Claude/
+config/ai.opencode.desktop/
+**/hosts.yml
+
+# Cache e lixo de build
+__pycache__/
+*.log
+*.swp
+*~
+.DS_Store

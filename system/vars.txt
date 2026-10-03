@@ -1,0 +1,5 @@
+os=Fedora Linux 44 (Workstation Edition)
+kernel=6.19.10-300.fc44.x86_64
+desktop=GNOME
+shell=/bin/bash
+data=2026-10-03
